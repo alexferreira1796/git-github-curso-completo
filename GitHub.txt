@@ -15,6 +15,8 @@ git commit --amend = modifica a mensagem do commit mais recente, ou seja, o últ
 
 git checkout NOVO BRANCH
 
+git log --oneline --decorate --all --graph
+
 ----
 RESET GIT
 
