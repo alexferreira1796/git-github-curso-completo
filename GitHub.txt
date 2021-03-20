@@ -14,3 +14,14 @@ git clone https://github.com/<username>/site.git
 git commit --amend = modifica a mensagem do commit mais recente, ou seja, o último commit feito por você no projeto.
 
 git checkout NOVO BRANCH
+
+----
+RESET GIT
+
+Reset Soft Desfaz Commite. Mantém Stage e modificações.
+
+Reset Mixed Desfaz Commit e Stage. Mantém modificações.
+
+Reset Hard Desfaz Commit, Stage e modificações.
+
+Stage "são os arquivos selecionados para o Commit".
