@@ -1,0 +1,16 @@
+https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/
+
+c:\Usuarios\<username>\.gitconfig
+
+git config --global user.name "YOUR NAME"
+git config --global user.email "YOUR EMAIL ADDRESS"
+
+fork => Copiar repositorio para o meu git
+
+git remote add origin https://github.com/<username>/site.git
+
+git clone https://github.com/<username>/site.git
+
+git commit --amend = modifica a mensagem do commit mais recente, ou seja, o último commit feito por você no projeto.
+
+git checkout NOVO BRANCH
